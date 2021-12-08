@@ -1,0 +1,3 @@
+Generate at least 5 compelling project ideas for web applications you would like to create. The web app should have a database, a back end, and a front end with at last 3-5 interactive web form features. You can feature data visualizations, searches, maps, or other interactive elements (or not).
+
+1. 
