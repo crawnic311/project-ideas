@@ -1,3 +1,30 @@
 Generate at least 5 compelling project ideas for web applications you would like to create. The web app should have a database, a back end, and a front end with at last 3-5 interactive web form features. You can feature data visualizations, searches, maps, or other interactive elements (or not).
 
+Hobbies and Intersts
+- Basketball
+- Snowboarding
+- Handyman
+- Woodworking
+- Philosophy and reading
+- Cooking and Recipes
+- Pickleball
+- TikTok learning
+
+Daily Activities
+- Budgeting
+- Planning
+- Nutrition Tracking
+- Exercising
+- Reading
+- Mediating
+- Time Management
+- Routine improvement
+- Improving mobility
+
+Problems I would like to solve
+- Finding people for sports and other activities
+- The amount of time it takes me to budget
+- Getting all of my saved videos, articles, etc. in one neatly organized place
+- More organized reminders list
+
 1. 
