@@ -1,0 +1,33 @@
+Recipe Web App MVP
+Pitch/Idea: Create a web application that allows users to store, organize, and lookup their favorite recipes, as well as track the nutritional content of the recipes.
+
+MVP: 
+•	Users can login and sign up with their chosen credentials
+•	Users can create new recipes with instructions and store them in their personal collection of recipes
+•	Users can input the nutritional value of the recipes
+•	Users can search through their stored recipes
+•	Users can delete recipes from their collection
+Future Features:
+•	Users can categories recipes according to key ingredients
+•	Users can share recipes
+•	Users can add images to recipes
+•	Users can add videos to recipes
+•	Users can make their recipes public
+•	Users can comment on and like other’s recipes
+
+
+
+
+Budget Web App MVP
+Pitch/Idea: Create a web application that allows users to track their expenses over time and set budget related goals.
+
+MVP: 
+•	Users can login and sign up with their chosen credentials
+•	Users can add purchases, including the date, description, and price of the purchase
+•	Users can delete purchases 
+•	Users can categorize their purchases
+•	Users can create categories for their purchases
+Future Features:
+•	Users can set weekly or monthly budget goals
+•	Users can see a breakdown of their spending habits
+•	Users can track their expected taxes
